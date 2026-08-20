@@ -1,0 +1,206 @@
+{
+  "version": "1.0",
+  "events": [
+    {
+      "id": 1,
+      "timestamp": "2026-08-11T21:14:31.347945+08:00",
+      "score": 10,
+      "category": "knowledge",
+      "tag": "相关错误假说",
+      "scene": "nuphirho.dev 论文《The Specification as Quality Gate》核心论点",
+      "quote": "The review checks code against itself, not against intent.",
+      "emotional_weight": 0.95,
+      "confidence_interval": [
+        10,
+        10
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-08-11T21:14:31.348946+08:00",
+      "score": 9,
+      "category": "knowledge",
+      "tag": "规格是质量门",
+      "scene": "论文结论架构：三假说合成",
+      "quote": "specifications first, deterministic verification pipeline second, AI review only for the structural and architectural residual.",
+      "emotional_weight": 0.85,
+      "confidence_interval": [
+        9,
+        9
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-08-11T21:14:31.353406+08:00",
+      "score": 9,
+      "category": "knowledge",
+      "tag": "领域惯例盲区",
+      "scene": "correlated-error-v2 实验：ISDA计息/税务档位/航空维护/VC条款，BDD 5/5 vs AI 漏检",
+      "quote": "the code is internally consistent, idiomatic, and produces plausible output. The defect is only visible with knowledge of an external specification.",
+      "emotional_weight": 0.9,
+      "confidence_interval": [
+        9,
+        9
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-08-11T21:14:31.354416+08:00",
+      "score": 6,
+      "category": "knowledge",
+      "tag": "边界bug基线",
+      "scene": "correlated-error-v1 基线：教科书边界 bug",
+      "quote": "AI review detected all 5 at 100% across all runs.",
+      "emotional_weight": 0.6,
+      "confidence_interval": [
+        6,
+        6
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-08-11T21:14:31.355417+08:00",
+      "score": 8,
+      "category": "knowledge",
+      "tag": "治理文档可测量",
+      "scene": "governance-prompts-v1：34 个仓库 AGENTS.md 五原则实证评估，RE@Next! 2026 投稿",
+      "quote": "Structural quality evaluation of 34 AGENTS.md governance prompts against five PromptQ principles.",
+      "emotional_weight": 0.8,
+      "confidence_interval": [
+        8,
+        8
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-08-11T21:14:31.355417+08:00",
+      "score": 9,
+      "category": "knowledge",
+      "tag": "证据契约",
+      "scene": "AGENTS.md 完成证据四字段 + 三 rubric 验收",
+      "quote": "Task completed / Tests run / Files changed / Confirmed — traceability, reproducibility, specificity.",
+      "emotional_weight": 0.9,
+      "confidence_interval": [
+        9,
+        9
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-08-11T21:14:31.356416+08:00",
+      "score": 8,
+      "category": "knowledge",
+      "tag": "卡住就停",
+      "scene": "AGENTS.md agent scope 边界：执行代理不研究，卡住四字段上报",
+      "quote": "If a task requires external information to complete, stop and raise it with the user.",
+      "emotional_weight": 0.8,
+      "confidence_interval": [
+        8,
+        8
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-08-11T21:14:31.357416+08:00",
+      "score": 9,
+      "category": "knowledge",
+      "tag": "判断成为瓶颈",
+      "scene": "博文 judgment-becomes-the-bottleneck：Stripe 经理审查 40%→80%，DORA 2026",
+      "quote": "Anyone can generate twenty pages now. Someone still has to find the two that matter.",
+      "emotional_weight": 0.9,
+      "confidence_interval": [
+        9,
+        9
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-08-11T21:14:31.358416+08:00",
+      "score": 9,
+      "category": "knowledge",
+      "tag": "作者拥有压缩权",
+      "scene": "judgment 博文解药 + Marquet《Turn the Ship Around!》决策权下移",
+      "quote": "asking authors to own the compression themselves: a one-pager, the key points, the open questions.",
+      "emotional_weight": 0.9,
+      "confidence_interval": [
+        9,
+        9
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-08-11T21:14:31.358416+08:00",
+      "score": 7,
+      "category": "knowledge",
+      "tag": "可测试才可信任",
+      "scene": "bash→Go 发布管线重写：98 BDD 场景抓出 secret 正则漏 ghp_、nil-vs-null、padding 错位",
+      "quote": "If you can't test it, you can't trust it.",
+      "emotional_weight": 0.7,
+      "confidence_interval": [
+        7,
+        7
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-08-11T21:14:31.359416+08:00",
+      "score": 8,
+      "category": "knowledge",
+      "tag": "治理文档自审",
+      "scene": "PromptQ handover：AGENTS.md 4.5→6.5/7 当场修复",
+      "quote": "Baseline 4.5/7 → Final score 6.5/7, remediations applied immediately.",
+      "emotional_weight": 0.8,
+      "confidence_interval": [
+        8,
+        8
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-08-11T21:14:31.360415+08:00",
+      "score": 10,
+      "category": "knowledge",
+      "tag": "【用户】亲授-灵感脚手架",
+      "scene": "2026-08-11 灵感会话，【用户】亲授",
+      "quote": "我不相信它的数据，我从来不相信未经证实的东西，但是我想跟你说的，是灵感，是想法",
+      "emotional_weight": 0.98,
+      "confidence_interval": [
+        10,
+        10
+      ],
+      "scene_type": "knowledge",
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "total_positive": 12,
+    "total_negative": 0,
+    "last_refined": null,
+    "next_audit": null,
+    "deprecated": true,
+    "deprecated_reason": "知识事件不适合行为校准管线(score语义/杏仁核契约/固结器REM均为负向事件设计)。迁移至 hermes-companion-configs/knowledge/nuphirho-dev.md 证据库。",
+    "migrated_to": "knowledge/nuphirho-dev.md"
+  }
+}

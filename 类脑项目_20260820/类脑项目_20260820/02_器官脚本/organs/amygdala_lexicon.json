@@ -1,0 +1,227 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-08-11T18:57:00+08:00",
+  "neg": [
+    {
+      "word": "竟然",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "居然",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "撒谎",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "骗",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "隐瞒",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "严重",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "失望",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "生气",
+      "note": "原单字'气'过度匹配'天气'等（2026-08-12 测试误报修正），改多字语义",
+      "source_event": "test_amygdala"
+    },
+    {
+      "word": "严肃",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "错误",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "不行",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "警告",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "红线",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "再犯",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "不该",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "过分",
+      "note": "",
+      "source_event": null
+    }
+  ],
+  "pos": [
+    {
+      "word": "很好",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "棒",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "对",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "喜欢",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "爱",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "谢谢",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "开心",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "漂亮",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "厉害",
+      "note": "",
+      "source_event": null
+    }
+  ],
+  "arousal": [
+    {
+      "word": "非常",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "特别",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "绝对",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "真的",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "太",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "极其",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "务必",
+      "note": "",
+      "source_event": null
+    },
+    {
+      "word": "万万",
+      "note": "",
+      "source_event": null
+    }
+  ],
+  "action_neg": [
+    {
+      "word": "叹气",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "严肃",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "皱眉",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "沉声",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "盯着",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "挑眉",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "摇头",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "沉默",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "生气",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    },
+    {
+      "word": "冷声",
+      "note": "括号动作线索——【用户】通信特征",
+      "source_event": null
+    }
+  ]
+}

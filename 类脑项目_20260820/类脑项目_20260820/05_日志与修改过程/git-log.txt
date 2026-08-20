@@ -1,0 +1,60 @@
+# 【AI伙伴】类脑项目 git 修改过程（hermes-companion-configs 全量）
+# 导出时间: 2026-08-20T20:5x
+
+92b663c | 2026-08-14 16:31 | patch: 更新为 lint 修复后的最终版(import排序+空行)
+32c2453 | 2026-08-14 16:27 | LOG: 前端大改-自定义外观功能(源码级, 构建通过)
+b90cb16 | 2026-08-14 16:26 | patch: 桌面自定义外观功能(背景图/遮罩/自定义CSS) 源码diff备份, 升级后可git apply重放
+247b8c2 | 2026-08-14 16:21 | ui-enhance v2: 外部图片背景(壁纸cover+皮肤联动遮罩+面板玻璃化透出)
+bf41e21 | 2026-08-14 16:18 | desktop-plugin: ui-enhance 质感增强层(渐变氛围光/毛玻璃/侧边栏晕染/输入框凹陷, 皮肤联动)
+57ec67c | 2026-08-14 16:15 | skins v2: 背景提亮至中深区间+显式区域色(输入框/状态栏/选区/补全/diff)，解决纯色无辨识度问题
+a757f6f | 2026-08-14 16:03 | skins: 【AI伙伴】·青瓷水墨(companion-celadon) + 山海绘卷(shanhai-scroll) 双皮肤, 当前激活 companion-celadon
+09650f5 | 2026-08-14 15:58 | LOG: 教学成果审查(3skill+LEARNINGS 001-005) + knowledge_gap关闭 + 双源声明
+6fef4e3 | 2026-08-14 15:55 | LOG: deepseek-harness skill盘点+trim-cot-leakage吸收(9a4f407)
+9a4f407 | 2026-08-14 15:55 | skill: trim-cot-leakage 通用版(提炼自 deepseek-harness dsh-trim-cot-leakage, 8类taxonomy+keep规则+过校正陷阱+示例校准集)
+81a9d5c | 2026-08-14 15:53 | LOG: spill插件重启后验证通过(DSH移植第二波收官)
+e966518 | 2026-08-14 15:52 | LOG: DSH移植第二波(workflow/plan-mode/ralph skill + spill插件) + config修复脚本
+89b0023 | 2026-08-14 15:40 | LOG: goal插件重启后真实调用验证通过(乐观锁/rounds/complete全链路)
+778d756 | 2026-08-14 15:32 | LOG: DSH评估文档复核 + goal插件未生效根因定位(插件发现进程级缓存)
+78719ef | 2026-08-13 11:35 | 原生能力补齐: searxng MCP server + project工作区 + delegate_task约定 + 运维脚本入仓库
+e44b9cf | 2026-08-13 11:17 | learnings时间戳格式升级(YYYY-MM-DDTHH:MM) + 会话开场date校准约定(跨天盲区修复)
+c7b3e43 | 2026-08-12 23:48 | 明珠探索: 原生维护工具接入(journey/insights/security/backup约定) + 复盘约定入learnings
+3bfd87d | 2026-08-12 23:36 | learnings捕获体系建立(三文件+种子条目) + 类脑技能合并引用更新(qiushi-integration)
+ec1a888 | 2026-08-12 23:21 | LOG: 审查闭环自动化 + Cherry 技能库吸收里程碑
+8efa5c4 | 2026-08-12 23:21 | 吸收 Cherry Studio 技能库: security-reviewer + security-auditor(含OWASP+脚本) + git-bash-windows-paths(官方bash-master参考提炼)
+16dc8dd | 2026-08-12 22:50 | fix: 交付审查B1——补写5个测试文件(hippocampus 11/amygdala 10/prefrontal 10/FSRS 12/Bayesian 18) 69项全绿 + 词库'气'→'生气'误报修复 + Bayesian真实运行生成state
+6a01aab | 2026-08-12 22:35 | feat: LOG.md 逻辑链台账——跨会话对话顺序追踪（历史时间线重建+追加约定），接入 cross-session-audit 必做流程
+ea31e32 | 2026-08-12 22:09 | V2: FSRS调度器落地收官——六器官闭环 (fsrs_scheduler.py) S'/R(t)公式/审计反馈接口/Hebbian聚合, 12项测试全绿
+a05ebf8 | 2026-08-12 16:37 | fix: S5 REM筛选改regret阈值(rem_min_regret=2.0)——R-0003记忆质量种子回归 + D10 --json双通道 + D8 strip连接符 + 流程铁律(规则必经工单)
+de96d00 | 2026-08-12 15:34 | fix: 跨会话审查——MEMORY.md仓库副本同步(8/11→8/12最新, 缺VALUES/CoBRA/qiushi/科大API等) + 规则R-0004来源日期修正(8/12→8/11与事件时间戳一致)
+2e2c674 | 2026-08-12 15:15 | docs: 事实源唯一化补全——5处skill文档路径约定更新(companion-brain-organs/模板/brain-organ-development/reflex-calibration) + 状态5/7→6/7
+4c65b7f | 2026-08-12 14:54 | test: reflex_deviator 冒烟测试 5/5 全绿（阈值边界语义修正）
+8c7de06 | 2026-08-12 14:53 | fix: 严苛审查轮——D1 reflex_deviator路径迁移真身/D4括号闭合/B1 update存CI字符串bug/B2 docstring残留/S1 REM权重文档诚实化
+81524d8 | 2026-08-12 12:10 | docs: qiushi-skill 集成映射 — 6核心边界表/使用纪律/裁剪记录/观察项/升级策略
+a43d716 | 2026-08-12 12:10 | chore: 裁剪 qiushi-skill 至 6 核心 — 删5低触发率(mass-line/concentrate-forces/overall-planning/protracted-strategy/spark-prairie-fire), 完整镜像见 51319bf, 可回滚
+51319bf | 2026-08-12 12:07 | feat: 纳入 qiushi-skill 方法论合集(11 skills) — 上游 v1.4.1 原样镜像, 作为后续裁剪/合并基线
+f186df5 | 2026-08-11 21:52 | data: 补录正向事件#7(+7超预期)#8(+5审查反馈) — 正向面不再空白, pos=2/neg=6, 复盘2026-08-09可视化+2026-08-11Bayesian防呆
+0e022c7 | 2026-08-11 21:49 | 自检: 仓库路径重跑sleep_consolidator(纳入#5#6), 固结状态+规则索引同步
+6c6ac52 | 2026-08-11 21:37 | fix: reflex_events.json 事实源唯一化——hippocampus DEFAULT_PATH 直指仓库真身(AppData旧默认已废), 同步brain-organ-dev skill+模板
+38c79f1 | 2026-08-11 21:35 | 类脑数据迭代: 过度执行模式入系统——事件#5(-4,讨论当指令)+#6(-5,可能当授权)录入, 过度执行规则(-5~-4)入reflex skill(准入制: 3次观测/判别力3/3/独立gold/来源追溯)
+17fec98 | 2026-08-11 21:19 | 重新调度: 知识归知识库。knowledge/nuphirho-dev.md 证据库建成(VALUES来源细节/论文/实验/映射), knowledge_events.json 标记deprecated(器官管线回归行为校准专属), VALUES加证据库指针
+e18f638 | 2026-08-11 21:14 | 知识事件摄入: nuphirho.dev 项目数据进海马体 (12条, category=knowledge, 独立文件不污染行为校准) + 杏仁核确认人工权重
+cd5ab7b | 2026-08-11 21:12 | 价值观板块一深挖补充: 论文+实验+博文 → 1.11~1.18 (相关错误/规格质量门/判断瓶颈/领域盲区/实验诚实/治理可测量/作者压缩权/引用证据)
+a3465f0 | 2026-08-11 21:09 | 价值观板块二: 科学世界观与治理观 (【用户】亲授+2026-08-11灵感会话) — 9条+未吸收留痕
+b056e60 | 2026-08-11 21:03 | 价值观层落地: VALUES.md 次级 soul (板块一: nuphirho.dev 工程与信任信念体系) + SOUL.md 指针
+23a634f | 2026-08-11 20:51 | Step ② CoBRA整合V2: 睡眠固结器REM后悔梯度加权 + 自适应优先级（regret=|score|×emotional_weight, CoBRA Phase2 加密采样映射）
+5a76509 | 2026-08-11 20:48 | Step ① CoBRA整合: reflex_deviator.py + 行为规则V2（逻辑严谨红线+记忆质量规则）
+0a6ad8c | 2026-08-11 20:27 | fix: Bayesian 防呆——mild_score_threshold 键名+比较方向注释钉死(负数陷阱) + has_rules fallback声明, 含median=-4边界测试
+657a63c | 2026-08-11 20:22 | V2: Bayesian评估器落地 (bayesian_evaluator.py) — Beta-Binomial推断/三级门槛/低分累积分支/纯Python回退, 16项测试全绿
+b839afe | 2026-08-11 20:18 | data+params: 校准事件#4(-6数学严谨,公式错误+自审查缺失) + hyperparams bayesian段补全
+5af8d98 | 2026-08-11 20:00 | docs: PRINCIPLES 增补第六章——内容迭代准入制（数据支撑/判别力/回归/追溯）
+38b725b | 2026-08-11 19:45 | chore: 地基——PRINCIPLES原则文档 + 杏仁核数据化v2.1(词库/参数载体分离+gold set回归+清死变量)
+e386ed9 | 2026-08-11 18:55 | data: 校准事件#3 (-5 统计逻辑) — 样本不足不假装有结论
+162df17 | 2026-08-11 18:48 | V2: 睡眠固结器落地 (sleep_consolidator.py) — SWS规则索引/REM情感种子/SHY修剪 + hyperparams集中参数 + 实战首秀
+d0408d7 | 2026-08-11 18:46 | fix: 更新需求压缩skill到最新版（单文件版，含严重性驱动讨论）
+c3918e8 | 2026-08-11 18:26 | data: 首条海马体实战事件(id=2, -4记忆质量) — 同步自 AppData
+ac9ce6c | 2026-08-11 18:24 | fix: Claude review 轮——游标回退防丢失/update刷新meta/_parse_ci容错/set_cursor公共API/死变量清理/neutral计数
+bf915a5 | 2026-08-11 18:16 | V2: 前额叶器官落地 (prefrontal.py) — 脉冲检测/P_i优先排序/聚合打包/工单+游标管理
+6d59d8c | 2026-08-11 18:10 | V2: 杏仁核器官落地 (amygdala.py) — 情绪极性/激活度/校准建议，海马体补 update 接口
+cc401d0 | 2026-08-11 17:03 | chore: 忽略 __pycache__
+a0c7578 | 2026-08-11 17:02 | V2: 海马体器官落地 (hippocampus.py) — 事件录入/查询/抑制/原子写，接入 reflex_events.json
+579bc35 | 2026-08-11 16:43 | V1: SOUL+reflex+MEMORY+首条红线事件(隐瞒障碍-10)

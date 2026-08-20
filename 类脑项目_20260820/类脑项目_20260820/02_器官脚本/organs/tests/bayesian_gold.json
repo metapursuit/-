@@ -1,0 +1,79 @@
+{
+  "version": "1.1",
+  "updated_at": "2026-08-11T20:25:00+08:00",
+  "note": "期望值全部来自 scipy 1.17.1 实测（2026-08-11 20:24），非手算近似",
+  "cases": [
+    {
+      "category": "t10k8",
+      "mean": 0.75,
+      "ci_lo": 0.4822,
+      "ci_hi": 0.9398,
+      "p_gt": 0.9673,
+      "status": "weak_evidence",
+      "level": "high_confidence",
+      "suggestion_prefix": "[弱证据]"
+    },
+    {
+      "category": "all_m10",
+      "mean": 0.9688,
+      "ci_lo": 0.8878,
+      "ci_hi": 0.9992,
+      "p_gt": 1.0,
+      "status": "ok",
+      "level": "high_confidence",
+      "median_score": -10
+    },
+    {
+      "category": "all_m1",
+      "mean": 0.9688,
+      "ci_lo": 0.8878,
+      "ci_hi": 0.9992,
+      "p_gt": 1.0,
+      "status": "ok",
+      "level": "low_score_accumulation",
+      "median_score": -1
+    },
+    {
+      "category": "mix30",
+      "mean": 0.5,
+      "ci_lo": 0.3306,
+      "ci_hi": 0.6694,
+      "p_gt": 0.5,
+      "status": "ok",
+      "level": "low"
+    },
+    {
+      "category": "n9",
+      "status": "insufficient_data",
+      "suggestion": null
+    },
+    {
+      "category": "n10k5",
+      "mean": 0.5,
+      "ci_lo": 0.2338,
+      "ci_hi": 0.7662,
+      "p_gt": 0.5,
+      "status": "weak_evidence",
+      "level": "low"
+    },
+    {
+      "category": "n29",
+      "status": "weak_evidence"
+    },
+    {
+      "category": "n30k24",
+      "mean": 0.7812,
+      "ci_lo": 0.6253,
+      "ci_hi": 0.9041,
+      "p_gt": 0.9996,
+      "status": "ok",
+      "level": "high_confidence"
+    }
+  ],
+  "prior_change": {
+    "category": "t10k8",
+    "prior_alpha": 2,
+    "prior_beta": 2,
+    "mean": 0.7143
+  }
+}

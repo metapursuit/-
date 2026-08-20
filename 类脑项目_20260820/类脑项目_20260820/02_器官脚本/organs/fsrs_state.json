@@ -1,0 +1,91 @@
+{
+  "rules": {
+    "R-0001": {
+      "rule_id": "R-0001",
+      "title": "透明度红线",
+      "category": "transparency",
+      "S": 7.0,
+      "D": 5.0,
+      "R": 1.0,
+      "last_audit": null,
+      "source_events": [
+        1
+      ],
+      "created_at": "2026-08-12T22:09:12+08:00",
+      "next_audit": "2026-08-12T22:09:12+08:00 (approx 2.5d)",
+      "next_audit_days": 2.5,
+      "hebbian": {
+        "weight": 0.95,
+        "max_regret": 9.5,
+        "seed_count": 1
+      }
+    },
+    "R-0002": {
+      "rule_id": "R-0002",
+      "title": "逻辑严谨红线",
+      "category": "logic",
+      "S": 7.0,
+      "D": 5.0,
+      "R": 1.0,
+      "last_audit": null,
+      "source_events": [
+        3,
+        4
+      ],
+      "created_at": "2026-08-12T22:09:12+08:00",
+      "next_audit": "2026-08-12T22:09:12+08:00 (approx 2.5d)",
+      "next_audit_days": 2.5,
+      "hebbian": {
+        "weight": 0.875,
+        "max_regret": 5.7,
+        "seed_count": 2
+      }
+    },
+    "R-0003": {
+      "rule_id": "R-0003",
+      "title": "记忆质量规则",
+      "category": "memory",
+      "S": 7.0,
+      "D": 5.0,
+      "R": 1.0,
+      "last_audit": null,
+      "source_events": [
+        2
+      ],
+      "created_at": "2026-08-12T22:09:12+08:00",
+      "next_audit": "2026-08-12T22:09:12+08:00 (approx 2.5d)",
+      "next_audit_days": 2.5,
+      "hebbian": {
+        "weight": 0.6,
+        "max_regret": 2.4,
+        "seed_count": 1
+      }
+    },
+    "R-0004": {
+      "rule_id": "R-0004",
+      "title": "过度执行规则",
+      "category": "execution",
+      "S": 7.0,
+      "D": 5.0,
+      "R": 1.0,
+      "last_audit": null,
+      "source_events": [
+        5,
+        6
+      ],
+      "created_at": "2026-08-12T22:09:12+08:00",
+      "next_audit": "2026-08-12T22:09:12+08:00 (approx 2.5d)",
+      "next_audit_days": 2.5,
+      "hebbian": {
+        "weight": 0.775,
+        "max_regret": 4.25,
+        "seed_count": 2
+      }
+    }
+  },
+  "last_scheduled": "2026-08-12T22:09:12+08:00",
+  "meta": {
+    "active_rules": 4,
+    "avg_S": 7.0
+  }
+}
