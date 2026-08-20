@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-08-11T18:58:00+08:00",
+  "note": "回归基准：迭代后必须全量对照。盲区案例=未来迭代的输入。",
+  "cases": [
+    {
+      "event_id": 1,
+      "expected_valence": -1,
+      "expected_arousal": 0.5,
+      "note": "红线：显性负向词5连中（竟然/居然/撒谎/严重/严肃）"
+    },
+    {
+      "event_id": 2,
+      "expected_valence": 0,
+      "expected_arousal": 0.4,
+      "note": "记忆质量：平静纠正——当前盲区（咳/重话未识别）"
+    },
+    {
+      "event_id": 3,
+      "expected_valence": 0,
+      "expected_arousal": 0.5,
+      "note": "统计逻辑：平静纠正——当前盲区（讲求逻辑性未识别）"
+    }
+  ]
+}
