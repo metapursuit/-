@@ -1,0 +1,113 @@
+{
+  "last_consolidated": "2026-08-12T16:35:45+08:00",
+  "run_count": 6,
+  "sws": {
+    "rules_found": 4,
+    "rules_indexed": [
+      "R-0001",
+      "R-0002",
+      "R-0003",
+      "R-0004"
+    ],
+    "warnings": [
+      "REFLEX_RULES 标记外疑似规则: 评分标尺"
+    ]
+  },
+  "rem": {
+    "seeds": [
+      {
+        "event_id": 1,
+        "rule_id": "R-0001",
+        "weight": 0.95,
+        "regret_score": 9.5
+      },
+      {
+        "event_id": 4,
+        "rule_id": "R-0002",
+        "weight": 0.95,
+        "regret_score": 5.7
+      },
+      {
+        "event_id": 6,
+        "rule_id": "R-0004",
+        "weight": 0.85,
+        "regret_score": 4.25
+      },
+      {
+        "event_id": 3,
+        "rule_id": "R-0002",
+        "weight": 0.8,
+        "regret_score": 4.0
+      },
+      {
+        "event_id": 5,
+        "rule_id": "R-0004",
+        "weight": 0.7,
+        "regret_score": 2.8
+      },
+      {
+        "event_id": 2,
+        "rule_id": "R-0003",
+        "weight": 0.6,
+        "regret_score": 2.4
+      }
+    ],
+    "unmatched": [],
+    "min_regret": 2.0,
+    "regret_distribution": {
+      "max": 9.5,
+      "min": 2.4,
+      "mean": 4.77,
+      "count": 6
+    }
+  },
+  "adaptive": {
+    "recommendations": [
+      {
+        "category": "logic",
+        "priority": "high",
+        "action": "建议加密 logic 类别规则提炼",
+        "avg_regret": 4.85,
+        "max_regret": 5.7,
+        "seed_count": 2,
+        "total_regret": 9.7
+      },
+      {
+        "category": "transparency",
+        "priority": "medium",
+        "action": "",
+        "avg_regret": 9.5,
+        "max_regret": 9.5,
+        "seed_count": 1,
+        "total_regret": 9.5
+      },
+      {
+        "category": "execution",
+        "priority": "medium",
+        "action": "",
+        "avg_regret": 3.52,
+        "max_regret": 4.25,
+        "seed_count": 2,
+        "total_regret": 7.05
+      },
+      {
+        "category": "memory",
+        "priority": "low",
+        "action": "",
+        "avg_regret": 2.4,
+        "max_regret": 2.4,
+        "seed_count": 1,
+        "total_regret": 2.4
+      }
+    ],
+    "top_category": "logic",
+    "top_regret": 9.7
+  },
+  "shy": {
+    "suppressed_events": 0,
+    "archive_candidates": [],
+    "storage_est_bytes": 0,
+    "storage_total_bytes": 3186,
+    "storage_pct": 0.0
+  }
+}

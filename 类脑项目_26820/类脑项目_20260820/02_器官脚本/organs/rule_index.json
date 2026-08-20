@@ -1,0 +1,59 @@
+{
+  "rules": [
+    {
+      "rule_id": "R-0001",
+      "title": "透明度红线",
+      "category": "transparency",
+      "source_events": [
+        1
+      ],
+      "source_batch": null,
+      "status": "active",
+      "created_at": "2026-08-11T18:47:50+08:00",
+      "suppress_count": 0,
+      "score": -10
+    },
+    {
+      "rule_id": "R-0002",
+      "title": "逻辑严谨红线",
+      "category": "logic",
+      "source_events": [
+        3,
+        4
+      ],
+      "source_batch": null,
+      "status": "active",
+      "created_at": "2026-08-11T21:48:45+08:00",
+      "suppress_count": 0,
+      "score": -6
+    },
+    {
+      "rule_id": "R-0003",
+      "title": "记忆质量规则",
+      "category": "memory",
+      "source_events": [
+        2
+      ],
+      "source_batch": null,
+      "status": "active",
+      "created_at": "2026-08-11T21:48:45+08:00",
+      "suppress_count": 0,
+      "score": -4
+    },
+    {
+      "rule_id": "R-0004",
+      "title": "过度执行规则",
+      "category": "execution",
+      "source_events": [
+        5,
+        6
+      ],
+      "source_batch": null,
+      "status": "active",
+      "created_at": "2026-08-11T21:48:45+08:00",
+      "suppress_count": 0,
+      "score": -5
+    }
+  ],
+  "last_synced": "2026-08-12T16:35:45+08:00"
+}

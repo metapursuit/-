@@ -1,0 +1,121 @@
+{
+  "last_evaluated": "2026-08-12T22:50:01+08:00",
+  "categories": {
+    "transparency": {
+      "n": 1,
+      "k": 1,
+      "posterior": {
+        "alpha": 2,
+        "beta": 1,
+        "mean": 0.6667
+      },
+      "ci_95": [
+        0.1581,
+        0.9874
+      ],
+      "ci_width": 0.8293,
+      "p_theta_gt_05": 0.75,
+      "median_score": -10,
+      "has_rules": true,
+      "status": "insufficient_data",
+      "suggestion": null,
+      "suggestion_level": null,
+      "previous_status": null,
+      "status_changed_at": null
+    },
+    "memory": {
+      "n": 1,
+      "k": 1,
+      "posterior": {
+        "alpha": 2,
+        "beta": 1,
+        "mean": 0.6667
+      },
+      "ci_95": [
+        0.1581,
+        0.9874
+      ],
+      "ci_width": 0.8293,
+      "p_theta_gt_05": 0.75,
+      "median_score": -4,
+      "has_rules": true,
+      "status": "insufficient_data",
+      "suggestion": null,
+      "suggestion_level": null,
+      "previous_status": null,
+      "status_changed_at": null
+    },
+    "logic": {
+      "n": 3,
+      "k": 2,
+      "posterior": {
+        "alpha": 3,
+        "beta": 2,
+        "mean": 0.6
+      },
+      "ci_95": [
+        0.1941,
+        0.9324
+      ],
+      "ci_width": 0.7383,
+      "p_theta_gt_05": 0.6875,
+      "median_score": -5,
+      "has_rules": true,
+      "status": "insufficient_data",
+      "suggestion": null,
+      "suggestion_level": null,
+      "previous_status": null,
+      "status_changed_at": null
+    },
+    "execution": {
+      "n": 2,
+      "k": 2,
+      "posterior": {
+        "alpha": 3,
+        "beta": 1,
+        "mean": 0.75
+      },
+      "ci_95": [
+        0.2924,
+        0.9916
+      ],
+      "ci_width": 0.6992,
+      "p_theta_gt_05": 0.875,
+      "median_score": -4,
+      "has_rules": true,
+      "status": "insufficient_data",
+      "suggestion": null,
+      "suggestion_level": null,
+      "previous_status": null,
+      "status_changed_at": null
+    },
+    "creativity": {
+      "n": 1,
+      "k": 0,
+      "posterior": {
+        "alpha": 1,
+        "beta": 2,
+        "mean": 0.3333
+      },
+      "ci_95": [
+        0.0126,
+        0.8419
+      ],
+      "ci_width": 0.8293,
+      "p_theta_gt_05": 0.25,
+      "median_score": 7,
+      "has_rules": false,
+      "status": "insufficient_data",
+      "suggestion": null,
+      "suggestion_level": null,
+      "previous_status": null,
+      "status_changed_at": null
+    }
+  },
+  "meta": {
+    "total_categories": 5,
+    "ok_count": 0,
+    "weak_count": 0,
+    "insufficient_count": 5
+  }
+}

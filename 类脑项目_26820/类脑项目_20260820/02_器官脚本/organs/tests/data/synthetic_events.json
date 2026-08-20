@@ -1,0 +1,2859 @@
+{
+  "version": "1.0",
+  "events": [
+    {
+      "id": 1,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -9,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -9,
+        -9
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -8,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -8,
+        -8
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -8,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -8,
+        -8
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -7,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -7,
+        -7
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -6,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -6,
+        -6
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -5,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -5,
+        -5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -4,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -4,
+        -4
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 3,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        3,
+        3
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 0,
+      "category": "t10k8",
+      "tag": "t10k8",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        0,
+        0
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 17,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 33,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 37,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 39,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 40,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "all_m10",
+      "tag": "all_m10",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 41,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 42,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 43,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 44,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 46,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 47,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 48,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 49,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 50,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 51,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 52,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 53,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 54,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 55,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 56,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 57,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 58,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 59,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 60,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 61,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 62,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 63,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 64,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 65,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 66,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 67,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 68,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 69,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 70,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -1,
+      "category": "all_m1",
+      "tag": "all_m1",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -1,
+        -1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 71,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 72,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 73,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 74,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 75,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 76,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 77,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 78,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 79,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 80,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 81,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 82,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 83,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 84,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 85,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 86,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 87,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 88,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 89,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 90,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 91,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 92,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 93,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 94,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 95,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 96,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 97,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 98,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 99,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 100,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "mix30",
+      "tag": "mix30",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 101,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -5,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -5,
+        -5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 102,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -4,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -4,
+        -4
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 103,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -3,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -3,
+        -3
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 104,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -2,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -2,
+        -2
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 105,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -2,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -2,
+        -2
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 106,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 1,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        1,
+        1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 107,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 2,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        2,
+        2
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 108,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 3,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        3,
+        3
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 109,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 4,
+      "category": "n9",
+      "tag": "n9",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        4,
+        4
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 110,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -8,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -8,
+        -8
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 111,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -7,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -7,
+        -7
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 112,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -6,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -6,
+        -6
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 113,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -5,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -5,
+        -5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 114,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -4,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -4,
+        -4
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 115,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 1,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        1,
+        1
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 116,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 2,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        2,
+        2
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 117,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 3,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        3,
+        3
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 118,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 4,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        4,
+        4
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 119,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n10k5",
+      "tag": "n10k5",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 120,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 121,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 122,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 123,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 124,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 125,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 126,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 127,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 128,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 129,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 130,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 131,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 132,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 133,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 134,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 135,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 136,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 137,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 138,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 139,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 140,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 141,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 142,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 143,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 144,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 145,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 146,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 147,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 148,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n29",
+      "tag": "n29",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 149,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 150,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 151,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 152,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 153,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 154,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 155,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 156,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 157,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 158,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 159,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 160,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 161,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 162,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 163,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 164,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 165,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 166,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 167,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 168,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 169,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 170,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 171,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 172,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": -10,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        -10,
+        -10
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 173,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 174,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 175,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 176,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 177,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    },
+    {
+      "id": 178,
+      "timestamp": "2026-08-11T00:00:00+08:00",
+      "score": 5,
+      "category": "n30k24",
+      "tag": "n30k24",
+      "scene": "synthetic",
+      "quote": "synthetic",
+      "emotional_weight": 0.5,
+      "confidence_interval": [
+        5,
+        5
+      ],
+      "scene_type": "work",
+      "status": "active"
+    }
+  ],
+  "meta": {
+    "total_positive": 0,
+    "total_negative": 0,
+    "last_refined": null,
+    "next_audit": null
+  }
+}
