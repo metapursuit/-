@@ -1,0 +1,42 @@
+{
+  "consolidator": {
+    "shy_suppress_threshold": 3,
+    "max_runs_kept": 10,
+    "rem_min_regret": 2.0
+  },
+  "fsrs": {
+    "a": 0.5,
+    "b": 0.5,
+    "c": 0.5
+  },
+  "hebbian": {
+    "eta": 0.01,
+    "lambda": 0.001,
+    "sigma2_init": 1.0
+  },
+  "bayesian": {
+    "prior_alpha": 1,
+    "prior_beta": 1,
+    "min_samples": 10,
+    "weak_n_threshold": 30,
+    "weak_ci_width": 0.4,
+    "suggestion_threshold_high": 0.9,
+    "suggestion_threshold_mid": 0.6,
+    "mild_score_threshold": -4
+  },
+  "amygdala": {
+    "arousal_base": 0.3,
+    "excl_rate": 0.12,
+    "excl_cap": 0.3,
+    "q_rate": 0.08,
+    "q_cap": 0.15,
+    "arousal_word_bonus": 0.1,
+    "action_bonus": 0.1,
+    "long_text_len": 80,
+    "long_text_bonus": 0.1,
+    "calibrate_min_arousal": 0.45,
+    "calibrate_max_manual": 0.85,
+    "calibrate_high_manual": 0.9,
+    "calibrate_up_cap": 0.95
+  }
+}
